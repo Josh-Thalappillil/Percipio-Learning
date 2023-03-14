@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Website</title>
+</head>
+<body>
+    <h1>Testing Header</h1>
+    <p id="code"></p>
+
+    <script> 
+        document.getElementById("code").innerHTML = "Testing from the inner setting for inner HTML"; </script>
+        <p> This text is from within the body of the HTML.</p>
+        <script>
+            document.write("Hello this is from the first document.write")
+        </script>
+        <br>
+        <br>
+
+        <button onclick = "window.alert('Hello World! This is the window alert')">Click to view window alert</button>
+        
+        <br>
+        <br>
+
+        <button onclick = "document.write('Hello world! I am from the second document.write()')">Click to clear exisiting HTML</button>
+
+    <script>console.log("Hello World this is the console log")</script>
+
+</body>
+</html>
