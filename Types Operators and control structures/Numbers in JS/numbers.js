@@ -63,3 +63,21 @@ console.log("Replace globally all a: ", line.replace(/a/g, "A"));
 var line2 = "Fundamentals of programming"
 console.log("Splitting the line on space: ", line2.split (" "))
 
+
+
+
+// Date
+
+var time = new Date();
+console.log("Current time : \n", time)
+
+time = new Date(2020, 3, 16, 15, 21, 43);
+console.log("Year, Month, Day, hour, min, sec:\n", time)
+
+time = new Date("2020-03-16");
+console.log("Initialised with yyyy-mm-dd: \n", time)
+
+
+console.log("My timezone offset in minutes: ", time.getTimezoneOffset())
+
+console.log("The UTC time is: ",time.toUTCString())
