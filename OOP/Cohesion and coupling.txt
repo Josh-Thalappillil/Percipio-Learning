@@ -1,0 +1,2 @@
+Try to create modules with low coupling, meaning if the module is changed the others arent as affected
+High Cohesion and low coupling

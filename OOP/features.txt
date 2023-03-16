@@ -1,0 +1,18 @@
+Concepts:
+
+- Can take classes and modify it
+- Easier to debug code
+- Easier to understand complex systems
+- Relatively secure
+
+
+Features of OOP:
+
+- Enapsulation
+    - protects the data of the class
+- Inheritence
+    - Reduces the amount of code to write
+- Polymorphism
+    - Allows you to create a function to accept a variety of parameters
+- Abstraction
+    - Involves creating a class, but not quite finishing the class

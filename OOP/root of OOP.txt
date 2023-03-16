@@ -1,0 +1,21 @@
+Class is the root of all object-oriented programming
+
+
+Class is made of attributes as well as functions.
+- Attributes of class act like adjectives, they describe the class
+- Accessed using the dot nation
+- Can be modified
+- No limits on attributes
+
+
+Functions of a class.
+- Perform a task
+- No limits
+- May accept parameters (values)
+- May return a value
+
+
+Constructor Function
+- A constructor function is special - it assists in building an object that is ready to be used 
+- It may take parameters, but it never returns anything
+- Constructor functions will always exist, even if not explicity
