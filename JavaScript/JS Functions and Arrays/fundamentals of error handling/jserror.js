@@ -27,5 +27,9 @@ function isEven(){
         console.log("The entered value is " + msg);
     }
 
+    finally{
+        console.log("I get executed where or not there is an error in the try/catch block");
+    }
+
 
 }
