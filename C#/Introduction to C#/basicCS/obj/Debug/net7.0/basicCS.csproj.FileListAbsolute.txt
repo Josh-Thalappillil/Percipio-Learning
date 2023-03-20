@@ -1,0 +1,15 @@
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\basicCS\bin\Debug\net7.0\basicCS.exe
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\basicCS\bin\Debug\net7.0\basicCS.deps.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\basicCS\bin\Debug\net7.0\basicCS.runtimeconfig.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\basicCS\bin\Debug\net7.0\basicCS.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\basicCS\bin\Debug\net7.0\basicCS.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\basicCS\obj\Debug\net7.0\basicCS.csproj.AssemblyReference.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\basicCS\obj\Debug\net7.0\basicCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\basicCS\obj\Debug\net7.0\basicCS.AssemblyInfoInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\basicCS\obj\Debug\net7.0\basicCS.AssemblyInfo.cs
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\basicCS\obj\Debug\net7.0\basicCS.csproj.CoreCompileInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\basicCS\obj\Debug\net7.0\basicCS.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\basicCS\obj\Debug\net7.0\refint\basicCS.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\basicCS\obj\Debug\net7.0\basicCS.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\basicCS\obj\Debug\net7.0\basicCS.genruntimeconfig.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\basicCS\obj\Debug\net7.0\ref\basicCS.dll
