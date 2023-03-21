@@ -1,0 +1,15 @@
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Student Grades\bin\Debug\net7.0\Student Grades.exe
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Student Grades\bin\Debug\net7.0\Student Grades.deps.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Student Grades\bin\Debug\net7.0\Student Grades.runtimeconfig.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Student Grades\bin\Debug\net7.0\Student Grades.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Student Grades\bin\Debug\net7.0\Student Grades.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Student Grades\obj\Debug\net7.0\Student Grades.csproj.AssemblyReference.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Student Grades\obj\Debug\net7.0\Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Student Grades\obj\Debug\net7.0\Student Grades.AssemblyInfoInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Student Grades\obj\Debug\net7.0\Student Grades.AssemblyInfo.cs
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Student Grades\obj\Debug\net7.0\Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Student Grades\obj\Debug\net7.0\Student Grades.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Student Grades\obj\Debug\net7.0\refint\Student Grades.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Student Grades\obj\Debug\net7.0\Student Grades.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Student Grades\obj\Debug\net7.0\Student Grades.genruntimeconfig.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Student Grades\obj\Debug\net7.0\ref\Student Grades.dll
