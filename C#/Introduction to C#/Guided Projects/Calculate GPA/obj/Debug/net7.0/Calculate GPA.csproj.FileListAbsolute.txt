@@ -1,0 +1,15 @@
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Calculate GPA\obj\Debug\net7.0\Calculate GPA.csproj.AssemblyReference.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Calculate GPA\obj\Debug\net7.0\Calculate GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Calculate GPA\obj\Debug\net7.0\Calculate GPA.AssemblyInfoInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Calculate GPA\obj\Debug\net7.0\Calculate GPA.AssemblyInfo.cs
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Calculate GPA\obj\Debug\net7.0\Calculate GPA.csproj.CoreCompileInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Calculate GPA\bin\Debug\net7.0\Calculate GPA.exe
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Calculate GPA\bin\Debug\net7.0\Calculate GPA.deps.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Calculate GPA\bin\Debug\net7.0\Calculate GPA.runtimeconfig.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Calculate GPA\bin\Debug\net7.0\Calculate GPA.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Calculate GPA\bin\Debug\net7.0\Calculate GPA.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Calculate GPA\obj\Debug\net7.0\Calculate GPA.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Calculate GPA\obj\Debug\net7.0\refint\Calculate GPA.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Calculate GPA\obj\Debug\net7.0\Calculate GPA.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Calculate GPA\obj\Debug\net7.0\Calculate GPA.genruntimeconfig.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Calculate GPA\obj\Debug\net7.0\ref\Calculate GPA.dll
