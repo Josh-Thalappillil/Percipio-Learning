@@ -2,8 +2,18 @@
 
 class Program{
     static void Main(string[]args){
-        Random dice = new Random();
-        int roll = dice.Next(1, 7);
-        Console.WriteLine(roll);
+        
+        // Code CHallenge: Find a function that returns the larger of two numbers(Example code below)
+        // int firstValue = 500;
+        // int secondValue = 600;
+        // int largerValue;
+        // Console.WriteLine(largerValue);
+
+        // My Solution:
+        int firstValue = 500;
+        int secondValue = 600;
+        int largerValue = Math.Max(firstValue, secondValue);
+        
+        Console.WriteLine(largerValue);
     }
 }
