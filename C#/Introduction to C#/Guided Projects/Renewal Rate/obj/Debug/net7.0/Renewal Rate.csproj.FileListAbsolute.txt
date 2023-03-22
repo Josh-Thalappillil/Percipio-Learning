@@ -1,0 +1,15 @@
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Renewal Rate\obj\Debug\net7.0\Renewal Rate.csproj.AssemblyReference.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Renewal Rate\obj\Debug\net7.0\Renewal Rate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Renewal Rate\obj\Debug\net7.0\Renewal Rate.AssemblyInfoInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Renewal Rate\obj\Debug\net7.0\Renewal Rate.AssemblyInfo.cs
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Renewal Rate\obj\Debug\net7.0\Renewal Rate.csproj.CoreCompileInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Renewal Rate\bin\Debug\net7.0\Renewal Rate.exe
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Renewal Rate\bin\Debug\net7.0\Renewal Rate.deps.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Renewal Rate\bin\Debug\net7.0\Renewal Rate.runtimeconfig.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Renewal Rate\bin\Debug\net7.0\Renewal Rate.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Renewal Rate\bin\Debug\net7.0\Renewal Rate.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Renewal Rate\obj\Debug\net7.0\Renewal Rate.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Renewal Rate\obj\Debug\net7.0\refint\Renewal Rate.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Renewal Rate\obj\Debug\net7.0\Renewal Rate.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Renewal Rate\obj\Debug\net7.0\Renewal Rate.genruntimeconfig.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Renewal Rate\obj\Debug\net7.0\ref\Renewal Rate.dll
