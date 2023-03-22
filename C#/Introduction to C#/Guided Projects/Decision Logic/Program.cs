@@ -8,10 +8,6 @@ class Program{
         int roll2 = dice.Next(1, 7);
         int roll3 = dice.Next(1, 7);
 
-        roll1 = 6;
-        roll2 = 6;
-        roll3 = 6;
-
         int total = roll1 + roll2 + roll3;
 
         Console.WriteLine($"Dice roll: {roll1} + {roll2} + {roll3} = {total}");
@@ -31,14 +27,24 @@ class Program{
             }
         }
 
-        if (total >= 15)
+        if (total >= 16)
         {
-            Console.WriteLine("You win!");
+            Console.WriteLine("You won a new car!");
+        }
+
+        else if (total >= 10)
+        {
+            Console.WriteLine("You won a new laptop");
+        }
+
+        else if (total == 7)
+        {
+            Console.WriteLine("You won a holiday overseas!");
         }
 
         else
         {
-            Console.WriteLine("Sorry, you lose!");
+            Console.WriteLine("You won a kitten!");
         }
 
     }
