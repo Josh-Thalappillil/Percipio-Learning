@@ -1,0 +1,15 @@
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Iteration Challenge\bin\Debug\net7.0\Iteration Challenge.exe
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Iteration Challenge\bin\Debug\net7.0\Iteration Challenge.deps.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Iteration Challenge\bin\Debug\net7.0\Iteration Challenge.runtimeconfig.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Iteration Challenge\bin\Debug\net7.0\Iteration Challenge.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Iteration Challenge\bin\Debug\net7.0\Iteration Challenge.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Iteration Challenge\obj\Debug\net7.0\Iteration Challenge.csproj.AssemblyReference.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Iteration Challenge\obj\Debug\net7.0\Iteration Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Iteration Challenge\obj\Debug\net7.0\Iteration Challenge.AssemblyInfoInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Iteration Challenge\obj\Debug\net7.0\Iteration Challenge.AssemblyInfo.cs
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Iteration Challenge\obj\Debug\net7.0\Iteration Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Iteration Challenge\obj\Debug\net7.0\Iteration Challenge.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Iteration Challenge\obj\Debug\net7.0\refint\Iteration Challenge.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Iteration Challenge\obj\Debug\net7.0\Iteration Challenge.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Iteration Challenge\obj\Debug\net7.0\Iteration Challenge.genruntimeconfig.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Iteration Challenge\obj\Debug\net7.0\ref\Iteration Challenge.dll
