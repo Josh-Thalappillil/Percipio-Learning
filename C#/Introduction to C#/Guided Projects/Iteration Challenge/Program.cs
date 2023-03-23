@@ -23,17 +23,21 @@ class Program{
 
         // EXERCISE:
 
-        int[] inventory = { 200, 450, 700, 175, 250 };
-        int sum = 0;
-        int bin = 0;
-        foreach (int items in inventory)
-        {
-            sum += items;
-            bin++;
-            Console.WriteLine($"Bin {bin} = {items} items (Running total: {sum})");
-        }
+        // int[] inventory = { 200, 450, 700, 175, 250 };
+        // int sum = 0;
+        // int bin = 0;
+        // foreach (int items in inventory)
+        // {
+        //     sum += items;
+        //     bin++;
+        //     Console.WriteLine($"Bin {bin} = {items} items (Running total: {sum})");
+        // }
     
-        Console.WriteLine($"We have {sum} items in inventory.");
+        // Console.WriteLine($"We have {sum} items in inventory.");
+
+        // Code challenge - Report the Order IDs that need further investigation
+        // Your team has found a pattern. Orders that start with the letter "B" encounter fraud at a rate 25 times greater than the normal rate. 
+        // You'll write new code that outputs the Order ID of new orders where the Order ID starts with the letter "B". This will be used by the fraud team to investigate further.
 
     }
 }
