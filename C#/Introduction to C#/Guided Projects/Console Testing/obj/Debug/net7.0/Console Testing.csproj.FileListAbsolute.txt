@@ -1,0 +1,15 @@
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Console Testing\bin\Debug\net7.0\Console Testing.exe
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Console Testing\bin\Debug\net7.0\Console Testing.deps.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Console Testing\bin\Debug\net7.0\Console Testing.runtimeconfig.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Console Testing\bin\Debug\net7.0\Console Testing.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Console Testing\bin\Debug\net7.0\Console Testing.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Console Testing\obj\Debug\net7.0\Console Testing.csproj.AssemblyReference.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Console Testing\obj\Debug\net7.0\Console Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Console Testing\obj\Debug\net7.0\Console Testing.AssemblyInfoInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Console Testing\obj\Debug\net7.0\Console Testing.AssemblyInfo.cs
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Console Testing\obj\Debug\net7.0\Console Testing.csproj.CoreCompileInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Console Testing\obj\Debug\net7.0\Console Testing.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Console Testing\obj\Debug\net7.0\refint\Console Testing.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Console Testing\obj\Debug\net7.0\Console Testing.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Console Testing\obj\Debug\net7.0\Console Testing.genruntimeconfig.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Console Testing\obj\Debug\net7.0\ref\Console Testing.dll
