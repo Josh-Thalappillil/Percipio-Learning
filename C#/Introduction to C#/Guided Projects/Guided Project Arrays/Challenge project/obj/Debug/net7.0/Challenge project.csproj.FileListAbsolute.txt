@@ -1,0 +1,15 @@
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Guided Project Arrays\Challenge project\bin\Debug\net7.0\Challenge project.exe
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Guided Project Arrays\Challenge project\bin\Debug\net7.0\Challenge project.deps.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Guided Project Arrays\Challenge project\bin\Debug\net7.0\Challenge project.runtimeconfig.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Guided Project Arrays\Challenge project\bin\Debug\net7.0\Challenge project.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Guided Project Arrays\Challenge project\bin\Debug\net7.0\Challenge project.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Guided Project Arrays\Challenge project\obj\Debug\net7.0\Challenge project.csproj.AssemblyReference.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Guided Project Arrays\Challenge project\obj\Debug\net7.0\Challenge project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Guided Project Arrays\Challenge project\obj\Debug\net7.0\Challenge project.AssemblyInfoInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Guided Project Arrays\Challenge project\obj\Debug\net7.0\Challenge project.AssemblyInfo.cs
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Guided Project Arrays\Challenge project\obj\Debug\net7.0\Challenge project.csproj.CoreCompileInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Guided Project Arrays\Challenge project\obj\Debug\net7.0\Challenge project.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Guided Project Arrays\Challenge project\obj\Debug\net7.0\refint\Challenge project.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Guided Project Arrays\Challenge project\obj\Debug\net7.0\Challenge project.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Guided Project Arrays\Challenge project\obj\Debug\net7.0\Challenge project.genruntimeconfig.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Guided Projects\Guided Project Arrays\Challenge project\obj\Debug\net7.0\ref\Challenge project.dll
