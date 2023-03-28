@@ -17,7 +17,6 @@ namespace Monty_Hall
         public void PlayGame()
         {
             var doors = _gameMaster.CreateGameDoors();
-            Console.WriteLine("Hello");
         }
     }
 }

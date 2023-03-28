@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Monty_Hall
 {
-    internal class Player
+    public class Player
     {
     }
 }
