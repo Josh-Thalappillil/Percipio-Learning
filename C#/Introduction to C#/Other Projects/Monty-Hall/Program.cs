@@ -1,4 +1,4 @@
 ﻿using Monty_Hall;
 
-var game = new Game(new RandomNumber());
-game.PlayGame();
+var simulator = new Simulator();
+simulator.simulate1000();

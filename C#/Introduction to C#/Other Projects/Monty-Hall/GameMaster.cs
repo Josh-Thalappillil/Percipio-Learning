@@ -22,5 +22,23 @@ namespace Monty_Hall
             return doors;
 
         }
+
+        public void gameEnding(List<Door> doors)
+        {
+            if (WinOrLose(doors) == true)
+            {
+                Console.WriteLine("You have won a Car!");
+            }
+            else
+            {
+                Console.WriteLine("You lose.");
+            }
+        }
+
+        public bool WinOrLose(List<Door> doors)
+        {
+            return doors.First(door => door.picked).hasCar();
+                        
+        }
     }
 }

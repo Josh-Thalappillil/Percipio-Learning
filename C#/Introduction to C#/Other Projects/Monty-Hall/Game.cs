@@ -9,14 +9,26 @@ namespace Monty_Hall
     public class Game
     {
         private GameMaster _gameMaster;
+        private List<Door>? _doors;
+        private Player _player;
+        private Host _host;
 
         public Game(IRandomNumber random) 
         {
             _gameMaster = new GameMaster(random);
+            _player = new Player();
+            _host = new Host();
         }
         public void PlayGame()
         {
-            var doors = _gameMaster.CreateGameDoors();
+            _doors = _gameMaster.CreateGameDoors();
+            _player.pickDoor(_doors);
+            _host.hostOpensADoor(_doors);
+            _player.switchOrStayDoors(_doors);
+        }
+        public bool getOutcomeOfGame()
+        {
+            return _gameMaster.WinOrLose(_doors);
         }
     }
 }

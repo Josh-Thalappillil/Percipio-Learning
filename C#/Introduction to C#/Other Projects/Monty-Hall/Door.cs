@@ -10,10 +10,16 @@ namespace Monty_Hall
     {
         private bool _hasCar;
         public bool opened;
+        public bool picked;
 
         public void injectCarToDoor()
         {
             _hasCar = true;
+        }
+
+        public bool hasCar()
+        {
+            return _hasCar;
         }
     }
 }

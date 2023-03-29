@@ -1,0 +1,15 @@
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Fundamentals of OOP\OOP-TestCar\obj\Debug\net7.0\OOP-TestCar.csproj.AssemblyReference.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Fundamentals of OOP\OOP-TestCar\obj\Debug\net7.0\OOP-TestCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Fundamentals of OOP\OOP-TestCar\obj\Debug\net7.0\OOP-TestCar.AssemblyInfoInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Fundamentals of OOP\OOP-TestCar\obj\Debug\net7.0\OOP-TestCar.AssemblyInfo.cs
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Fundamentals of OOP\OOP-TestCar\obj\Debug\net7.0\OOP-TestCar.csproj.CoreCompileInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Fundamentals of OOP\OOP-TestCar\bin\Debug\net7.0\OOP-TestCar.exe
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Fundamentals of OOP\OOP-TestCar\bin\Debug\net7.0\OOP-TestCar.deps.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Fundamentals of OOP\OOP-TestCar\bin\Debug\net7.0\OOP-TestCar.runtimeconfig.json
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Fundamentals of OOP\OOP-TestCar\bin\Debug\net7.0\OOP-TestCar.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Fundamentals of OOP\OOP-TestCar\bin\Debug\net7.0\OOP-TestCar.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Fundamentals of OOP\OOP-TestCar\obj\Debug\net7.0\OOP-TestCar.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Fundamentals of OOP\OOP-TestCar\obj\Debug\net7.0\refint\OOP-TestCar.dll
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Fundamentals of OOP\OOP-TestCar\obj\Debug\net7.0\OOP-TestCar.pdb
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Fundamentals of OOP\OOP-TestCar\obj\Debug\net7.0\OOP-TestCar.genruntimeconfig.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Fundamentals of OOP\OOP-TestCar\obj\Debug\net7.0\ref\OOP-TestCar.dll
