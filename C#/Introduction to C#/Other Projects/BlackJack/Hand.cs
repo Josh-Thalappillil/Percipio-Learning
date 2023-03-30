@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace BlackJack
 {
-    internal class Hand
+    public class Hand
     {
+        private List<Card> cards;
+         
+        public Hand()
+        {
+            cards = new List<Card>();
+        }
     }
 }

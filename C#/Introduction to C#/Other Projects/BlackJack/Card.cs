@@ -8,17 +8,16 @@ namespace BlackJack
 {
     public class Card
     {
-        public Suit _suit { get; }
-        public Rank _rank { get; }
+        public Suit suit { get; }
+        public Rank rank { get; }
         public int Value { get; }
 
-        public Card(Suit suit, Rank rank)
+        public Card(Suit suitvalue, Rank rankvalue)
         {
-            _suit = suit;
-            _rank = rank;
-            Value = (int)_rank;
+            suit = suitvalue;
+            rank = rankvalue;
+            Value = (int)rankvalue;
         }
-
         public enum Suit
         {
             CLUB,
@@ -40,6 +39,7 @@ namespace BlackJack
             Queen = 10,
             King = 10,
             Ace = 11
-        }
+        }   
     }
+
 }
