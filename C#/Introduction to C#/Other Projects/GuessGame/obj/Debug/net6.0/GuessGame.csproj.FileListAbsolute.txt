@@ -1,0 +1,5 @@
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Other Projects\GuessGame\obj\Debug\net6.0\GuessGame.csproj.AssemblyReference.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Other Projects\GuessGame\obj\Debug\net6.0\GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Other Projects\GuessGame\obj\Debug\net6.0\GuessGame.AssemblyInfoInputs.cache
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Other Projects\GuessGame\obj\Debug\net6.0\GuessGame.AssemblyInfo.cs
+C:\Users\Nigruto\Documents\GitHub\Percipio-Learning\C#\Introduction to C#\Other Projects\GuessGame\obj\Debug\net6.0\GuessGame.csproj.CoreCompileInputs.cache
