@@ -8,50 +8,47 @@ namespace GuessGame
 {
     public class GameEvents
     {
-        private Random random;
         int RandomNum;
-        public GameEvents()
+        
+        public int NumGenerator()
         {
             Random random = new Random();
             RandomNum = random.Next(1, 11);
-            
-        }
-        public int NumGenerator()
-        {
             return RandomNum;
         }
+        
         public void CheckAnswer()
         {
             GameEvents gameEvents = new GameEvents();
-            ConsoleMsg consolemsg = new ConsoleMsg();
+            gameEvents.NumGenerator();
 
-            (int inputCount, int UserInput) = consolemsg.NumberChosen();
+            int inputCount = 0;
+            int UserInput;
 
-            
             while (true)
             {
+                Console.WriteLine("\nEnter your guess:");
+                UserInput = Convert.ToInt32(Console.ReadLine());
                 inputCount++;
 
-                while (true)
+                                
+                if (UserInput == gameEvents.RandomNum)
                 {
-                    if (UserInput == RandomNum)
-                    {
-                        Console.WriteLine("CONGRATULATIONS YOU WIN!");
-                        break;
-                    }
-                    else if (UserInput < RandomNum)
-                    {
-                        Console.WriteLine("You guessed too low, try again.");
-                        continue;
-                    }
-                    else if (UserInput > RandomNum) 
-                    {
-                        Console.WriteLine("You guessed too high, try again.");
-                        continue;
-                    }
+                    Console.WriteLine("CONGRATULATIONS YOU WIN!");
+                    break;
                 }
-                Console.WriteLine($"You took {inputCount} tries to get the answer!");
+                else if (UserInput < gameEvents.RandomNum)
+                {
+                    Console.WriteLine("You guessed too low, try again.");
+                    continue;
+                }
+                else if (UserInput > gameEvents.RandomNum) 
+                {
+                    Console.WriteLine("You guessed too high, try again.");
+                    continue;
+                }
             }
+            Console.WriteLine($"You took {inputCount} tries to get the answer!");
         }
     }
 }
