@@ -12,10 +12,33 @@ namespace GuessGame
         {
             Console.WriteLine("Welcome to GuessGame. \n\nChoose a number between 1 and 10.");
         }
-        public void NumberChosen()
+        public (int, int) NumberChosen()
         {
-        int ChosenNum = int.Parse(Console.ReadLine());
-        Console.WriteLine(ChosenNum);
-    }
+            int inputCount = 0;
+            while (true)
+            {
+                Console.ReadLine();
+                inputCount++;
+
+                int UserInput;
+                while (true)
+                {
+                    if (!int.TryParse(Console.ReadLine(), out UserInput))
+                    {
+                        Console.WriteLine("Please enter a valid number.");
+                        continue;
+                    }
+
+                    if (UserInput < 1 || UserInput > 10)
+                    {
+                        Console.WriteLine("Please enter a number between 1 and 10.");
+                        continue;
+                    }
+                    break;
+                }
+                Console.WriteLine($"You guessed {UserInput}.");
+            return (UserInput, inputCount);
+            }
+        }
     }
 }
