@@ -9,3 +9,4 @@ using System.Threading.Tasks;
 
 var simulate = new ConsoleMsg();
 simulate.WelcomeMsg();
+simulate.NumberChosen();

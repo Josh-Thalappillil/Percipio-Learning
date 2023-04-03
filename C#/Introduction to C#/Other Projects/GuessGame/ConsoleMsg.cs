@@ -10,7 +10,12 @@ namespace GuessGame
     {
         public void WelcomeMsg()
         {
-            Console.WriteLine("Welcome to GuessGame. Choose a number between 1 and 10.");
+            Console.WriteLine("Welcome to GuessGame. \n\nChoose a number between 1 and 10.");
         }
+        public void NumberChosen()
+        {
+        int ChosenNum = int.Parse(Console.ReadLine());
+        Console.WriteLine(ChosenNum);
+    }
     }
 }

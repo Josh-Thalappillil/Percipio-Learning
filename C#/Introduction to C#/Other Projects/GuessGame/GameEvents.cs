@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace GuessGame
 {
-    internal class NumGenerator
+    public class GameEvents
     {
+
     }
 }
