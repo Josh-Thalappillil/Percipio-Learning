@@ -7,5 +7,5 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-var simulate = new NumGenerator();
+var simulate = new ConsoleMsg();
 simulate.WelcomeMsg();
