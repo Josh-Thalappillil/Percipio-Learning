@@ -1,3 +1,6 @@
+import java.util.Random;
+import java.util.Scanner;
+
 // Lotto Checker
 // Lotto numbers are drawn in the range of between 1 and 24
 // A number may be drawn one or more times in any single draw
@@ -8,10 +11,28 @@
 // the numbers chosen by the player, which numbers were correct guesses by the player
 // and how many correct guesses occurred in the draw.
 // The method should also notify of any error e.g., if the number picked by the user fall outside the prescribed range.
-public class Main {
-    public static void main(String[] args){
-        public static int num(){
+class Main {
+    public static void main(String[] args) {
+        Random rand = new Random();
+        Scanner scan = new Scanner(System.in);
 
+        int[] userNumbers = new int[3]; //store users input
+
+        for (int i = 0; i < 3; i++){
+            userNumbers[i] = scan.nextInt();
+            if (userNumbers[i] < 1 || userNumbers[i] > 24){
+                System.out.println("Error! You must choose a number between 1 and 24."); return;
+            }
         }
+
+        int[] lottoNumbers = new int[3]; //Storing random lotto numbers generated
+
+        for (int i = 0; i < 3; i++){
+            lottoNumbers[i] = rand.nextInt(25);
+        }
+
+        int correctGuesses = 0;
+
+        
     }
 }
