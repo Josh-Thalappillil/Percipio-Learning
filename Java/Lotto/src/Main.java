@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -28,11 +29,21 @@ class Main {
         int[] lottoNumbers = new int[3]; //Storing random lotto numbers generated
 
         for (int i = 0; i < 3; i++){
-            lottoNumbers[i] = rand.nextInt(25);
+            lottoNumbers[i] = rand.nextInt(4);
+            System.out.println(lottoNumbers[i]);
         }
+
+        Arrays.sort(userNumbers);
+        Arrays.sort(lottoNumbers);
 
         int correctGuesses = 0;
 
-        
+        for (int i = 0; i < 3; i++){
+            if (userNumbers[i] == lottoNumbers[i]){
+                System.out.println("The number " + userNumbers[i] + " was a correct guess.");
+                correctGuesses++;
+            }
+        }
+        System.out.println("The number of correct guesses was: " + correctGuesses);
     }
 }
