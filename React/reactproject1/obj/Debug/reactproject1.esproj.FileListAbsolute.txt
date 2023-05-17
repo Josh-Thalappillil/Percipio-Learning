@@ -1,2 +1,0 @@
-C:\Users\Nigruto\Documents\GitHub\Software-Dev-Learning\React\reactproject1\obj\Debug\reactproject1.esproj.SuggestedBindingRedirects.cache
-C:\Users\Nigruto\Documents\GitHub\Software-Dev-Learning\React\reactproject1\obj\Debug\reactproject1.esproj.CoreCompileInputs.cache
