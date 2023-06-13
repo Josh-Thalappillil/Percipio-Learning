@@ -28,8 +28,8 @@ document.getElementById("multSubmit").onclick = function(){
     mul1 = Number(mul1);
     mul2 = Number(mul2);
     result = multiply(mul1, mul2);
-    document.getElementById("resultMult").innerHTML = result
-    console.log(result)
+    document.getElementById("resultMult").innerHTML = result;
+    console.log(result);
 
 }
 
@@ -37,3 +37,16 @@ function multiply(mul1, mul2){
     return (mul1 * mul2);
 }
 
+// Write a function called capitalize that takes a string and returns that string with only the first letter capitalized. Make sure that it can take strings that are lowercase, UPPERCASE or BoTh.
+
+
+document.getElementById("capSubmit").onclick=function(){
+    let cap;
+
+    cap = document.getElementById("cap").value;
+    cap = String(cap);
+    cap = cap.toLowerCase();
+    cap = cap.charAt(0).toUpperCase() + cap.slice(1);
+    document.getElementById("capResult").innerHTML = cap;
+    console.log(cap);
+}
