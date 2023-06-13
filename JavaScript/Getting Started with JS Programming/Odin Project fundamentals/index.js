@@ -50,3 +50,16 @@ document.getElementById("capSubmit").onclick=function(){
     document.getElementById("capResult").innerHTML = cap;
     console.log(cap);
 }
+
+
+// Write a function called lastLetter that takes a string and returns the very last letter of that string:
+
+document.getElementById("llSubmit").onclick=function(){
+    let last;
+
+    last = document.getElementById("lastLetter").value;
+    last = String(last);
+    last = last.charAt(last.length - 1);
+    document.getElementById("llResult").innerHTML = last;
+    console.log(last);
+}
