@@ -63,3 +63,22 @@ document.getElementById("llSubmit").onclick=function(){
     document.getElementById("llResult").innerHTML = last;
     console.log(last);
 }
+
+// Fizz Buzz
+
+let answer = parseInt(prompt("Enter a number you would like to FizzBuzz to!"));
+
+for (let i = 1; i <= answer; i++) {
+    if (i % 3 == 0 && i % 5 == 0) {
+        console.log("FizzBuzz");
+    }
+    else if (i % 3 == 0) {
+        console.log("Fizz");
+    }
+    else if (i % 5 == 0){
+        console.log("Buzz");
+    }
+    else {
+        console.log(i);
+    }
+}
